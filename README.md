@@ -16,13 +16,13 @@ Neste projeto, foi utilizado as tecnologias:
 
 Você precisa ter [Node.js](https://nodejs.org) em sua máquina para clonar este repositório:
 
-```
+```sh
 $ git clone https://github.com/MatheusDomingues/Ecoleta.git
 ```
 
 Depois disso, acesse a pasta e instale as dependências executando o seguinte comando:
 
-```
+```sh
 $ npm install # ou yarn install
 ```
 
@@ -30,7 +30,7 @@ $ npm install # ou yarn install
 
 Estando na pasta da aplicação, execute o comando abaixo para inicializar a aplicação.
 
-```
+```sh
 $ npm start # ou yarn start
 ```
 
